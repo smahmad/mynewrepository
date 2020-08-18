@@ -1,9 +1,6 @@
 Hello, In  my-new-branch.
 NEw change in Branch
 another change in branch local
-<<<<<<< HEAD
 change-1 in master branch remotly
 change-2 in master branch Locally
-=======
 change-3 in my-new-branch branch Locally
->>>>>>> my-new-branch
