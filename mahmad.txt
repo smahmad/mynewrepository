@@ -2,3 +2,4 @@ Hello, In  my-new-branch.
 NEw change in Branch
 another change in branch local
 change-1 in master branch remotly
+change-2 in master branch Locally
